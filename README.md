@@ -12,7 +12,7 @@ Features
 
 How to use
 
-run these lines simply and enjoy !
+Simply run these lines and enjoy !
 
     python manage.py migrate
     python manage.py createsuperuser
