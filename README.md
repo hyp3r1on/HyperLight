@@ -21,7 +21,7 @@ Simply run these lines and enjoy !
     
 Requirements
 
-    Django >= 1.8
+    Django >= 1.10
     django-braces
     factory_boy
     feedparser
